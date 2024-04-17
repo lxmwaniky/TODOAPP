@@ -1,0 +1,171 @@
+repo_name: lxmwaniky/TODOAPP
+report_id: 4798ca8ce2e11c6d6efd1e0e7b35a084
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-17T21:47:35+00:00'
+requested_by: william2032
+provider: github
+branch: main
+detected_tools_count: 14
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP
+  detection_source: Repo Metadata
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP/blob/main/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: william2032
+  last_updated_on: 2024-03-24 17:55:07.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: william2032
+  last_updated_on: 2024-03-24 17:55:07.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP/blob/main/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: william2032
+  last_updated_on: 2024-03-24 17:55:07.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP/blob/main/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: william2032
+  last_updated_on: 2024-03-24 17:55:07.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 1.0.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP/blob/main/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: william2032
+  last_updated_on: 2024-03-24 17:55:07.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/lxmwaniky/TODOAPP/blob/main/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: william2032
+  last_updated_on: 2024-03-24 17:55:07.000000000 Z
